@@ -4,6 +4,8 @@
 # LITTLE DOT - HTML5 GAME
 [Little Dot (in hiatus)] - Little Dot is a little affirmation of life, a game about the discovery of choices. Soothing journey through the stages of life.
 
+HOST THIS GAME ON GITHUB
+
 Twine?
 
 [Features]
